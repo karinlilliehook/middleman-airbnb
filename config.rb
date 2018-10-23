@@ -20,3 +20,8 @@ activate :deploy do |deploy|
   deploy.build_before = true
   deploy.deploy_method = :git
 end
+
+data.users.each do |user|
+  proxy "/users/#{user.github_nickname}.html", "/users/show.html", locals: { user: user }, ignore: true
+end
+

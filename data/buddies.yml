@@ -1,0 +1,9 @@
+- name: 'Karin'
+  github_nickname: 'karinlilliehook'
+  location: 'Amsterdam, The Netherlands'
+  # avatar: 'https://kitt.lewagon.com/placeholder/users/karinlilliehook'
+- name: 'Krisztina'
+  github_nickname: 'krystonen'
+  location: 'Amsterdam, The Netherlands'
+  # avatar: 'https://kitt.lewagon.com/placeholder/users/krystonen'
+

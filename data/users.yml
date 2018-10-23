@@ -1,4 +1,29 @@
-- name: 'Sébastien Saunier'
+- name: 'Sébastien'
   github_nickname: 'ssaunier'
-- name: 'Boris Paillard'
+  location: 'Paris, France'
+  tagline: 'Nice flat in Paris'
+  background: 'https://kitt.lewagon.com/placeholder/cities/paris'
+  avatar: 'https://kitt.lewagon.com/placeholder/users/ssaunier'
+  rating: 4
+  city_slug: "paris"
+  wifi: true
+- name: 'Boris'
   github_nickname: 'Papillard'
+  location: 'Paris, France'
+  tagline: 'Hip condo in Paris'
+  background: 'https://kitt.lewagon.com/placeholder/cities/paris'
+  avatar: 'https://kitt.lewagon.com/placeholder/users/Papillard'
+  rating: 3
+  city_slug: "paris"
+  wifi: false
+- name: 'Karin'
+  github_nickname: 'karinlilliehook'
+  location: 'Amsterdam, The Netherlands'
+  tagline: 'Cool appartment in Amsterdam'
+  background: 'https://kitt.lewagon.com/placeholder/cities/amsterdam'
+  avatar: 'https://kitt.lewagon.com/placeholder/users/karinlilliehook'
+  rating: 5
+  city_slug: "tokyo"
+  wifi: true
+
+
